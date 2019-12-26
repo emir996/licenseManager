@@ -9,3 +9,5 @@ That admin only can have crud options in license table.
 New registered member only can check and see what we have in table.
 In this app if you want to give admin to regular user u have to do that manually in sql file for security reasons.
 Simple practicing app for login admin and users and crud operations.
+For login as admin username:emir, pass: 123.
+Please dont comment about design of app :)
