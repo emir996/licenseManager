@@ -11,3 +11,5 @@ In this app if you want to give admin to regular user u have to do that manually
 Simple practicing app for login admin and users and crud operations.
 For login as admin username:emir, pass: 123.
 Please dont comment about design of app :)
+
+As soon as possible i will insert javascript for validation form and etc...
